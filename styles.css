@@ -69,7 +69,7 @@ nav{
 #two{
  
     background-color: #992424;
-    background-image: url("Images/KiramaiRed.png");
+    background-image: url("KiramaiRed.png");
     background-position: 1200px 20px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -137,7 +137,7 @@ nav{
     background-color: #6e6ebf;
     height: 110vh;
     color: #FFFFFF;
-    background-image: url(Tomboohger.png);
+    background-image: url("Tomboohger.png");
     background-position: 1200px 9px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -175,7 +175,7 @@ nav{
     height: 100vh;
     color: #FFFFFF;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-    background-image: url(OniSister.png);
+    background-image: url("OniSister.png");
     background-position: 1px 20px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -236,7 +236,7 @@ nav{
     height: 100vh;
     color: #FFFFFF;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-    background-image: url(BunPink.png);
+    background-image: url("BunPink.png");
     background-position: 1px 5px;
     background-repeat: no-repeat;
     background-size: contain;
@@ -324,7 +324,9 @@ footer a{
 /* this is a comment
  position relative 2
 background image all/background position
-float on 3&4 clear float after first 2
-
+float on 3&4 clear float after first 2 
 992424
 make each para in copy into different classes
+*/
+
+
